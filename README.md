@@ -1,3 +1,3 @@
 This is a simple README file(changed2)
 another modification on branch
-So much trouble!!
+I want to cause a conflict!!
